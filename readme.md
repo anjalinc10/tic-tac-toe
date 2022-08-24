@@ -61,4 +61,5 @@ The last function is the **reset_game().** This will restart the game and we als
 To start the game, we will call the **game_opening() function.**
 
 **Input** - 1) **o1.png** 2) **x1.png**
+
 **Output** - **tic_tac.jpg**
